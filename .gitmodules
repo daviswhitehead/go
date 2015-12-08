@@ -1,3 +1,6 @@
 [submodule "datasci_course_materials"]
 	path = datasci_course_materials
 	url = https://github.com/daviswhitehead/datasci_course_materials.git
+[submodule "stanford_machine_learning"]
+	path = stanford_machine_learning
+	url = https://github.com/daviswhitehead/stanford_machine_learning.git
